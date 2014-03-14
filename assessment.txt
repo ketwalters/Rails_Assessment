@@ -1,0 +1,9 @@
+1) It communicates with the database with ActiveRecord. 
+2) A resouces holds all of the routes for a controller.
+3) GET, POST, PUT, DELETE
+4) Create, Read, Update, Destroy
+5) When you use HTTP request to send communication to and from the server.
+6) 
+7) The client will send the request once the request is received the app.rb with check to see if there is a matching route. If there is a matching route. The method will get information from the model. The model will then send the information back to the controller then the controller will send that info to the view. Then the view will display the info in html in the browser. 
+8) GET, POST, PUT, DELETE
+9) We use migrations to create tables in the database.
